@@ -1,10 +1,14 @@
---------------------------------POlICE AND PRISON SOFTWARE SUITE(P. P. S. S)-----------------------------------------
+A web application developed with core Java technologies which are: **JSP** (Java Server Pages) for frontend, **Servlets** for handling requests, **JDBC** for database coneectivity.
+
+--------------------------------**POlICE AND PRISON SOFTWARE SUITE(P. P. S. S)**-----------------------------------------
+
+_How to install in your System:_
 
 Pre-requisite:
-Java 
-Eclipse(Jave EE) 2022-2023 
-SQL Server Management Studio 18
-Apache Tomcat 10.1.3
+- Java 
+- Eclipse(Jave EE) 2022-2023 
+- SQL Server Management Studio 18
+- Apache Tomcat 10.1.3
 
 Steps:
 1. First, server needs to be set up to host webapp. To host server on Apache Tomcat, go into Eclipse and in the servers tab, click on add server and navigate to the Apache Tomcat. It will ask for installation directory.
